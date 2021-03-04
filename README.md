@@ -10,7 +10,7 @@ processing file data
 processing API data
 Submitting the project:
 
-Create a new repository named USSF-js-async-checkpoint to submit your code for this project.
+Create a new repository named js-async-checkpoint to submit your code for this project.
 Submit a link to your respository below.
 Project instructions
 
